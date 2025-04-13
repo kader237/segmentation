@@ -25,8 +25,7 @@ Cette application web permet de visualiser et d'analyser la segmentation des cli
 ### Installation de Jupyter
 1. Assurez-vous d'être dans votre environnement virtuel :
 ```bash
-# Windows
-venv\Scripts\activate
+
 
 # Linux/Mac
 source venv/bin/activate
@@ -257,5 +256,19 @@ Cas pratique : Lancement d'une nouvelle offre data
   2. Évaluer la performance par segment
   3. Identifier les tendances principales
 
+
+
 ## Support
 Pour toute question ou assistance supplémentaire, contactez l'équipe technique à [adresse.email@tunisietelecom.tn] 
+
+## Pour lancer la partie web de ton projet tape la commande ci:
+```bash
+# Windows
+venv\Scripts\activate
+$env:PYTHONPATH = "."; python src/web/app.py
+```
+
+## Pour la partie de tratement de donees
+```bash
+python main.py
+```
