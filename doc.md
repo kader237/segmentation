@@ -230,7 +230,7 @@ Cas pratique : Lancement d'une nouvelle offre data
 3. Personnalisez l'offre :
    - Adaptez le volume de données
    - Ajustez le prix selon le profil
-   - Choisissez les canaux de communication appropriés
+   - Choisissez sles canaux de communication appropriés
 
 ## Cas d'Usage Courants
 
