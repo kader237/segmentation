@@ -235,7 +235,7 @@ Cas pratique : Lancement d'une nouvelle offre data
 ## Cas d'Usage Courants
 
 ### Pour l'Équipe Marketing
-- **Objectif** : Création de nouvelles offres
+- **Objectif** : Création de nouvelles offress
 - **Utilisation** : 
   1. Analyser les profils des segments
   2. Identifier les besoins non satisfaits
